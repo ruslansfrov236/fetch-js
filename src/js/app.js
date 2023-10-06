@@ -9,7 +9,7 @@ window.addEventListener("load", () => {
       product.style.display = "flex";
       loadingElement.style.display='none'
     
-  }, 1000);
+  }, 2000);
 
 
 });
