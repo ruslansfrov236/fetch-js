@@ -1,0 +1,33 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.photo-card {
+  width: 100%;
+  padding: 12px 20px;
+  display: none;
+  height: 100vh;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.loading-element{
+  width: 100%;
+  padding: 12px 20px;
+  display: flex;
+  place-content: center;
+  place-items: center;
+  height: 100vh;
+
+
+
+}
+
+ 
